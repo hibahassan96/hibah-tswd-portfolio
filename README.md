@@ -1,2 +1,2 @@
 # hibah-tswd-portfolio
-The portfolio is a representation of my work as part of my journey in visualizing and telling stories wi
+The portfolio is a representation of my work as part of my journey in visualizing data
