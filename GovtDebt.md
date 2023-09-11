@@ -6,3 +6,7 @@ We observe that US, Greece and Japan rank as the top 3 countries with the highes
 ## Government Debt Trends Across Time (1995-2022)
 The following visualization digs deeper into government debt trends and represents how the debt-to-GDP ratio has evolved over a period of over 20 years across 42 countries.
 <div class="flourish-embed flourish-chart" data-src="visualisation/14976699"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Comparative Government Debt Analysis Across Time (2019-2022)
+The following visualization attempts to simplify the comparative analysis for OECD countries government debt across 2019-2022 by ranking them from highest to lowest. With the aid of this visualization we recognize how Japan, Greece and USA continue to have the highest debt-to-GDP ratio. 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/14977196"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
