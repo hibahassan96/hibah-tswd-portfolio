@@ -11,8 +11,8 @@ Furthermore, I hope to utilize these learnings in order to enhance work within t
 Here is a comprehensive list of all my work - past, present and in the working:
 ### Health of America's Next Generation (Fall 2022)
 ![image](https://github.com/hibahassan96/hibah-tswd-portfolio/assets/122888626/a31e45a6-6d3c-46cb-a660-fa3310f88ee1)
-### Exploring and critiquing color
-##### Government Debt 2022 (OECD Data)
+### Storytelling through Data
+#### Government Debt 2022 (OECD Data)
 <iframe src="https://data.oecd.org/chart/7bem" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bem" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
 ### Final Project - Telling Stories With Data
