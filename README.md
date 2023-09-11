@@ -13,6 +13,6 @@ Here is a comprehensive list of all my work - past, present and in the working:
 ![image](https://github.com/hibahassan96/hibah-tswd-portfolio/assets/122888626/a31e45a6-6d3c-46cb-a660-fa3310f88ee1)
 ### Storytelling through Data
 #### Government Debt Visualization
-You can view the assignment [here](https://hibahassan96.github.io/hibah-tswd-portfolio/GovtDebt.html)https://hibahassan96.github.io/hibah-tswd-portfolio/GovtDebt.html
+You can view the assignment [here] (https://hibahassan96.github.io/hibah-tswd-portfolio/GovtDebt.html)
 
 ### Final Project - Telling Stories With Data
