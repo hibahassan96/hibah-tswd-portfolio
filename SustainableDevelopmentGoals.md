@@ -69,6 +69,7 @@ The sketches and feedbacks are as follows:
    
 <div class="flourish-embed flourish-chart" data-src="visualisation/15087347"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
   **Attempt 2**
  - I chose the Bar Chart (grouped) layout to visualize the data 
  - Through this visualization one is able to review all of the 33 indicators at once, sorted by Achieved(highest to lowest)
