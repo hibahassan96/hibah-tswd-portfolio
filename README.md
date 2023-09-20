@@ -14,5 +14,7 @@ Here is a comprehensive list of all my work - past, present and in the working:
 ### Storytelling through Data
 #### Government Debt Visualization
 You can view the assignment: https://hibahassan96.github.io/hibah-tswd-portfolio/GovtDebt.html
+#### Sustainable Development Goals Progression
+You can view the assignment 3/4 here: https://hibahassan96.github.io/hibah-tswd-portfolio/SustainableDevelopmentGoals.html
 
 ### Final Project - Telling Stories With Data
