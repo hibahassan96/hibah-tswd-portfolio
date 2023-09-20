@@ -57,6 +57,7 @@ The sketches and feedbacks are as follows:
     - I would prefer a more detailed title but also an explantion of what the On-target, Off-Target etc mean
 
  ## Final Visualization 
+ 
  Taking into account the feedback on my sketches and exploration of the visualization tool, I attempted the following remakes for the visualization:
  
  **Attempt 1**
