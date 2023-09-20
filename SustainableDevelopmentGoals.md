@@ -55,8 +55,8 @@ The sketches and feedbacks are as follows:
     - The visualization is sharing data on different SDGs and their current status across different districts
     - The grid line looks like it is boxing the graph too much
     - I would prefer a more detailed title but also an explantion of what the On-target, Off-Target etc mean
-
- ## Final Visualization 
+ 
+## Final Visualization 
  
  Taking into account the feedback on my sketches and exploration of the visualization tool, I attempted the following remakes for the visualization:
  
