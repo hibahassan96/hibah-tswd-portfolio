@@ -65,7 +65,7 @@ The sketches and feedbacks are as follows:
  - The color scheme is in line with what one interprets the colors to be red-is bad, green and blue-is on track/good
  - I also added numbers at the end of the bars for easier numerical understanding 
  - A short but informative title/subtitle to clarify what the visualization is about, the geography and timeline
- - The footer helps explain what each of the category represents making it easier to understand
+ - The footer helps explain what each of the category represents making it easier to understand, it also redirects to the raw data 
    
 <div class="flourish-embed flourish-chart" data-src="visualisation/15087347"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -74,7 +74,11 @@ The sketches and feedbacks are as follows:
  - Through this visualization one is able to review all of the 33 indicators at once, sorted by Achieved(highest to lowest)
  - It is a cleaner visualization as it has all the indicators but the viewer can easily identify the categories and numerical values for each 
  - The color scheme is in line with what one interprets the colors to be red-is bad, green and blue-is on track/good
+ - The gridlines have been utilized but a lighter color to avoid too much distraction 
  - A short but informative title/subtitle to clarify what the visualization is about, the geography and timeline
- - The footer helps explain what each of the category represents making it easier to understand
+ - The footer helps explain what each of the category represents making it easier to understand, it also redirects to the raw data
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15079595"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Conclusion
+Overall, it can be deduced that one does not require complicated visualizations to communicate and create an impactful story but rather simple,clean and clear is what would have the most impact. My redesigns attempt to bring that clarity and cleanness so that the viewer can grasp the information without having to dig deeper into the text or visualization itself. 
