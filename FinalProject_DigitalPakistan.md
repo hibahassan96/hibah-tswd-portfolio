@@ -83,6 +83,10 @@ own website and Our World in Data. These data sources are utilized as they provi
 dive into my data story by also introducing comparisons between Pakistan and other/world metrics. 
 
 ### Method and Medium 
-
-
+The final project will be completed using the following tools:
+- Shorthand to bring the entire story together 
+- Flourish for certain visualizations
+- Tableau for certain visualizations
+- I would like to experiment with GIS storymaps, I want to build a narrative around how digitization is truly impacting the socio-economic dynamics and this is where I want to use visuals beyond just graphs, but
+  rather some impactful images accessed through public-open source web pages - I want my audience to go on an emotional journey. 
 
