@@ -18,5 +18,5 @@ You can view the assignment: https://hibahassan96.github.io/hibah-tswd-portfolio
 You can view the assignment 3/4 here: https://hibahassan96.github.io/hibah-tswd-portfolio/SustainableDevelopmentGoals.html
 
 ### Final Project - The Digital Transformation Narrative - Pakistan’s Perspective
-You can access the final project main page here: https://hibahassan96.github.io/hibah-tswd-portfolio/FinalProject_DigitalPakistan.html
-Data for the project can be accessed here: https://github.com/hibahassan96/hibah-tswd-portfolio/blob/main/Digital%20Data%20-%20Final%20Project%20Workbook.xlsx
+- You can access the final project main page here: https://hibahassan96.github.io/hibah-tswd-portfolio/FinalProject_DigitalPakistan.html
+- Data for the project can be accessed here: https://github.com/hibahassan96/hibah-tswd-portfolio/blob/main/Digital%20Data%20-%20Final%20Project%20Workbook.xlsx
