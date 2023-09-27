@@ -44,13 +44,20 @@ this is impacting the socio-economic sphere of the country.
 ### Human Development 
 - A literacy rate of 62%
 - Digital Skills Gap Index Ranking at 94 out of 134, a score of 3.9 out of 10
-- A deteriorating HDI 
+- An analysis of the HDI and how it relates to digitization efforts
+
+**INSERT SKETCH**
 
 ### Economic Welfare 
+- The overall GDP growth observes a dip in 2020, post COVID, this can majorly be rooted in the fact that Pakistan's digital infrastructure was not able to cater to the digitization needs that COVID brought
+- Aditional analysis on economy and digitization initiatives
+
+**INSERT SKETCH**
 
 ### Conclusion 
+- A concluding graph that shows digitization initiatives in the recent years (edtech, digital pakistan initiative etc)
 
-## References
+### References
 ### Research
 1. Digital Now: A Guide to Pakistan’s Digital Transformation (https://tabadlab.com/wp-content/uploads/2023/04/Tabadlab-Working-Paper-13-Digital-Now.pdf)
 2. DataPortal : Digital Pakistan 2023 (https://datareportal.com/reports/digital-2023-pakistan)
@@ -61,6 +68,8 @@ this is impacting the socio-economic sphere of the country.
 3. GSMA Mobile Connectivity Index	https://www.mobileconnectivityindex.com/index.html#year=2022&dataSet=indexScore
 4. GDP growth (annual %)	https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?view=chart
 5. Human Development Index (HDI) 	https://hdr.undp.org/data-center/documentation-and-downloads
+
+### Method and Medium 
 
 
 
