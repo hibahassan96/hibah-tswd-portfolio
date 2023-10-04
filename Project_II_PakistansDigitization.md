@@ -31,9 +31,14 @@ The target audience for this project can be broken down into two categories:
 
 ### User Interviews 
 **Interview Questions**
-1. 
-2. 
-3. 
+1. What is digitization, in your understanding?
+2. What is your understanding of Pakistan's digitzation landscape?
+3. What is your first impression/understanding of the narrataive here?
+4. How is the flow of the story?
+5. How are the visualizations and what improvements would you recommend?
+6. In your opinion, who is the target audience here?
+7. What was an interesting thing here - that you learnt from/found new - you can answer none as well.
+8. Final suggestions - what elements work for you, what elements would you change and what additional things can be added here?
 
 > _User 1 Profile:_
 > _User 2 Profile_
