@@ -13,7 +13,7 @@ The story flow is as follows:
 4. Call to Action
 
 Delving deeper into the topic, I wireframe the narrative using shorthand. Shorthand allows the narrative to be built through a more visual support. 
-Therefore, you may access the **Shorthand: https://preview.shorthand.com/f0VL0RSaMQNXBT8p** here to explore the following:
+Therefore, you may access the **Shorthand: https://preview.shorthand.com/f0VL0RSaMQNXBT8p**
 - Story wireframe
 - A moodboard
 - Possible data visualizations
