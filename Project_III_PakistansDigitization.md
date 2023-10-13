@@ -16,7 +16,14 @@
 
 ### The Journey of Feedback and Changes 
 - **Project II Feedback Changes**
-- **Final Feedback Changes**
+  Following are changes suggested by further user feedback(after I refined my shorthand) and the professors   comments. I detail on how I tackle each of them:
+  
+  1. Add specific context in terms of Digitization, the need for Digitization, Edtech
+  2. Improve the Call to Actions: Make them more actionable
+  3. Build the story around the visualizations
+     
+- **Final Changes**
+  This section deals with aspects of the project, I worked on refining/changing myself - not specific to user feedback. 
   
 ## References
 
