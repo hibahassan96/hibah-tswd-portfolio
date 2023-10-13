@@ -2,6 +2,8 @@
 ### Exploring the nexus of Connectivity, Prosperity and Well-being
 ### Project II 
 
+-- Access to Project I can be found [here](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_I_PakistansDigitization.html)
+
 ## Wireframes and Storyboards 
 Curious about how a developing country can redefine its progress by channeling its digital transformation, I set the stage for Pakistan through this project. 
 Utilizing connectivity as a representation of digitized penetration across the country, I aim to identify the impact this would have on skill development and employment avenues within Pakistan. 
