@@ -2,7 +2,9 @@
 ### Exploring the nexus of Connectivity, Prosperity and Well-being
 ### Project II 
 
--- Access to Project I can be found [here](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_I_PakistansDigitization.html)
+Access to:
+- Project [Part I](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_I_PakistansDigitization.html)
+- Project [Part 3](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_III_PakistansDigitization.html)
 
 ## Wireframes and Storyboards 
 Curious about how a developing country can redefine its progress by channeling its digital transformation, I set the stage for Pakistan through this project. 
