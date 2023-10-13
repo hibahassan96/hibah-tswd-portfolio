@@ -2,7 +2,7 @@
 ## Exploring the nexus of Connectivity, Prosperity and Well-being
 ### Project III
 
-# Project Summary 
+## Project Summary 
 ### The Final Story [Website](https://preview.shorthand.com/f0VL0RSaMQNXBT8p#section-Introduction-ZVmJW1jjkR)
 
 ## [Part I](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_I_PakistansDigitization.html)
@@ -19,3 +19,5 @@
 - **Final Feedback Changes**
   
 ## References
+
+## Navigation Links
