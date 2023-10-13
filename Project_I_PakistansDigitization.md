@@ -1,6 +1,10 @@
 # The Digital Transformation Narrative - Pakistan's Perspective
 ## Exploring the nexus of Connectivity, Prosperity and Well-being
 
+Access to:
+- Project [Part 2](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_II_PakistansDigitization.html)
+- Project [Part 3](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_III_PakistansDigitization.html)
+
 ### Introduction 
 Digitization has redefined the global sphere. Covid'19 initiated a structural shift in terms of digitization across various sectors and this has ultimately pushed the global narrative towards a journey of digital transformation. One can not ignore this aspect and expect advancement, as this change has transformed social and economic models. 
 Pakistan, a developing country, has its digitization narrative set a bit differently. While there has been improvement in digitization models the past few years, the country has a long way to go before it can
