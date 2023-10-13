@@ -1,5 +1,5 @@
 # The Digital Transformation Narrative - Pakistan's Perspective
-## Exploring the nexus of Connectivity, Prosperity and Well-being
+## Exploring the nexus of Connectivity and Skill Development
 ### Project III
 
 ## Project Summary 
