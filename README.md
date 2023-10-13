@@ -7,7 +7,9 @@ I embarked on a journey half way across the world (literally) to broaden my pers
 just wanted to be able to translate all those technical skills into something more fun. Therefore, this portfolio is a representation of my attempt at bringing those two worlds together. Through the course 'Telling Stories with Data', learning from Professor Christopher Goranson I have been able to dig deeper into this realm. 
 
 # The Journey 
-I started of this course having basic knowledge in reference to exploratory data visualizations using python and R. This course not only introduced me to some very unique and easy to use technical tools (like Tableau, Flourish, Infogram), it allowed me to truly think beyond the numbers/data. I think no amount of data analysis, no matter how perfect and detailed it is, can have its full impact unless coupled with a visual storyline - it completely changes how the data is absorbed, its impact on the audience. 
+When I began this course, my understanding of exploratory data visualization in Python and R was quite basic. However, as I progressed through the course, I was introduced to a range of powerful and user-friendly technical tools, such as Tableau, Flourish, and Infogram. These tools not only expanded my skill set but also transformed the way I think about data.
+
+One of the most significant takeaways from this course was the realization that effective data analysis goes beyond just crunching numbers. It's about crafting a compelling visual narrative that brings data to life. No matter how thorough and precise the data analysis may be, its true impact is only realized when it's presented as a cohesive visual story. This revelation has fundamentally changed the way I approach data analysis and its communication, making it more engaging and impactful for the audience. 
 
 # My Portfolio
 Here is a comprehensive list of projects I have worked on/continue to work on, in my data and storytelling journey:
