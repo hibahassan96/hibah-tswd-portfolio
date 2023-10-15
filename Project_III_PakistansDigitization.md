@@ -33,5 +33,29 @@ In the initial stages of the project, the target audience was broad, reflecting 
   4. **Build the story around the visualizations:** Regarding the visualizations, I received valuable feedback that shaped their improvement. People generally appreciated the infographics and interactive graphs I incorporated, particularly highlighting the GSMA visualization. However, feedback emphasized the need for more context in the visuals. Initially, I designed the visualizations with the idea that users should be able to understand the data solely by viewing them. While this holds true for many aspects of effective visualization, it became evident that incorporating content with reference to the visuals was essential for guiding the audience through the storyline. Consequently, I worked on adding explanatory content to accompany each visualization, enhancing their effectiveness in conveying the narrative.
      
 ## References
+- Digital Now: A Guide to Pakistan’s Digital Transformation [here](https://tabadlab.com/wp-content/uploads/2023/04/Tabadlab-Working-Paper-13-Digital-Now.pdf)
+- DataPortal : Digital Pakistan 2023 [here](https://datareportal.com/reports/digital-2023-pakistan)
+- Sen Gupta, Mark. "What is Digitization, Digitalization, and Digital Transformation?" ARC Advisory Group, March 24, 2020. [here](https://www.arcweb.com/blog/what-digitization-digitalization-digital-transformation).
+- World Bank: Digital Development Overview. Sourced through: [here](https://www.worldbank.org/en/topic/digitaldevelopment/overview)
+- Walko, Paulina. "Internet Access as a Tool for Boosting Economic and Social Equality." LSE International Development Blog, November 29, 2022: [here](https://blogs.lse.ac.uk/internationaldevelopment/2022/11/29/internet-access-as-a-tool-for-boosting-economic-and-social-equality/#:~:text=Greater%20internet%20access%20can%20have,income%20users%2C%20which%20encourages%20competition).
+- Jamil, Sadia. "From Digital Divide to Digital Inclusion: Challenges for Wide-Ranging Digitalization in Pakistan." Telecommunications Policy. Department of Humanities & Social Sciences, Khalifa University of Science & Technology, Abu Dhabi, United Arab Emirates: [here](https://www.sciencedirect.com/science/article/pii/S0308596121001105)
+- Measure of America of the Social Science Research Council: [here](https://measureofamerica.org/human-development/)
+- Ali, Shahrukh. "Current Literacy Rate",Pakistan Today: [here](https://www.pakistantoday.com.pk/2022/11/02/current-literacy-rate/)
+- Wiley, "Digital Skills Gap Index": [here](https://dsgi.wiley.com/global-rankings/)
+- Zubairi, A., Khalayleh, A., Baloch, I., Mazari, H., Kaye, T., & Groeneveld, C. (2022). Pakistan Digital Learning Landscape Analysis [Technical Report]. EdTech Hub.[here](https://doi.org/10.53832/edtechhub.0093)
+- Daley, Sam. "Edtech 101", builtin: [here](https://builtin.com/edtech)
+- UNESCO. (2020). Education in a Post-COVID World: Nine Ideas for Public Action. United Nations Educational, Scientific and Cultural Organization: [here](https://en.unesco.org/sites/default/files/education_in_a_post-covid_world-nine_ideas_for_public_action.pdf)
+- How EdTech is reshaping the education landscape in Pakistan, invest2innovate: [here](https://invest2innovate.com/how-edtech-is-reshaping-the-education-landscape-in-pakistan/)
+- Challenges of women home-based workers of Karachi: [here](https://homenetpakistan.org/homenet-pakistan/)
+#### Main Datasets
+- Individuals Using the Internet [here](https://ourworldindata.org/grapher/number-of-internet-users)
+- Secure Internet servers (per 1 million people) [here](https://data.worldbank.org/indicator/IT.NET.SECR.P6?view=chart)
+- GSMA Mobile Connectivity Index [here](https://www.mobileconnectivityindex.com/index.html#year=2022&dataSet=indexScore)
+- GDP growth (annual %) [here](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?view=chart)
+- Human Development Index (HDI) [here](https://hdr.undp.org/data-center/documentation-and-downloads)
 
 ## Navigation Links
+- Project [Part 1](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_I_PakistansDigitization.html)
+- Project [Part 2](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_II_PakistansDigitization.html)
+- The main [Website](https://preview.shorthand.com/f0VL0RSaMQNXBT8p#section-Introduction-ZVmJW1jjkR)
+- My [Portfolio](https://hibahassan96.github.io/hibah-tswd-portfolio/)
