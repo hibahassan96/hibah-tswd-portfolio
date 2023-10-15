@@ -18,17 +18,19 @@ Here we navigate the journey of how this idea and project came into being:
   The second phase of the project aimed to bring the conceptual narrative to life by developing concrete wireframes and a well-structured storyline, supported by moodboards. To effectively convey the data-driven aspects of the narrative, I used tools like Flourish and Infogram to transform raw data into informative charts and graphics. During this stage, the project's focus was refined, determining the intended audience and conducting user research to gather valuable feedback. The user research process played a crucial role in assessing whether the narrative was effectively communicated, whether the visual elements were engaging and informative, and how the audience was perceived. This user feedback became instrumental in driving subsequent changes and refinements, ultimately preparing the project for its third phase.
 
 - ### [Part III](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_III_PakistansDigitization.html)
-
+  In the final phase of the project, all the pieces of the narrative puzzle came together. This stage provided the opportunity to fine-tune the storyline, incorporate valuable user feedback, and implement these refinements on the main website. Moreover, it allowed for a more precise and polished narrative, which was initially broad in scope. Beginning with some uncertainty about the project's direction, the journey through the various phases, including additional primary and secondary research, eventually led to a refined focus on educational technology. The final narrative was enriched with a clear understanding of the target audience and specific calls to action, making for a cohesive and impactful conclusion. Details on this phase are explained ahead.
 
 ### The Audience
+In the initial stages of the project, the target audience was broad, reflecting the evolving narrative's scope. However, as the project progressed into Phase II, the audience segmentation became more refined. It included two primary categories: the "General Audience," encompassing individuals without in-depth expertise but crucial for awareness campaigns, and the "Focused/Expert Audience," consisting of policymakers, business leaders, and academic professionals. By the time Phase III was reached, while the identified audience segments remained consistent, I gained a deeper understanding of each segment's role. Ultimately, the primary focus of the narrative was tailored to policymakers, entrepreneurs in the edtech sector, students, and teachers, ensuring a more effective and targeted communication approach.
 
 ### The Journey of Feedback and Changes 
 - **Project II Feedback Changes**
-  Following are changes suggested by further user feedback(after I refined my shorthand) and the professors   comments. I detail on how I tackle each of them:
+  Following are changes suggested by user feedback(during part II, post part II and the professors comments) I detail on how I tackle each of them:
   
   1. Add specific context in terms of Digitization, the need for Digitization, Edtech
-  2. Improve the Call to Actions: Make them more actionable
-  3. Build the story around the visualizations
+  2. Refine the human development/edtech components
+  3. Improve the Call to Actions: Make them more actionable
+  4. Build the story around the visualizations
      
 - **Final Changes**
   This section deals with aspects of the project, I worked on refining/changing myself - not specific to user feedback. 
