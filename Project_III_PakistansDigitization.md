@@ -26,15 +26,12 @@ In the initial stages of the project, the target audience was broad, reflecting 
 ### The Journey of Feedback and Changes 
 - **Project II Feedback Changes**
   Following are changes suggested by user feedback(during part II, post part II and the professors comments) I detail on how I tackle each of them:
-  
-  1. Add specific context in terms of Digitization, the need for Digitization, Edtech
-  2. Refine the human development/edtech components
-  3. Improve the Call to Actions: Make them more actionable
-  4. Build the story around the visualizations
+
+  1. **Add specific context in terms of Digitization, the need for Digitization, Edtech:** This was very concrete feedback as I realised that as someone who has been researching on it myself, I skipped how lack of this information could limit the understanding of my website's reader. Following this, I detailed in different segments what specific terminologies mean and why I talk about these aspects in terms of the project in addition to what is their importance in contributing to the overall narrative/impact.
+  2. **Refine the human development/edtech components:** In Phase II, as I was in the process of honing my narrative and narrowing its focus, feedback indicated that these segments needed refinement. They were initially somewhat rudimentary, making it challenging for users to grasp the intended message. To address this, I dedicated considerable effort to delve deeper into these sections. I expanded upon the components by providing comprehensive explanations of the relevant concepts, offering insights into Pakistan's current position in these areas, and emphasizing their significance in the overall narrative.
+  3. **Improve the Call to Actions-Make them more actionable:**  I delved into the process of making the call to actions more actionable, addressing feedback from Phase II and post-phase II evaluations. This involved a comprehensive approach to illustrate how each target audience could realistically achieve the proposed actions. I incorporated reference points and real-life examples to provide a tangible understanding of the expectations outlined in the project, making it more accessible and feasible for the audience to grasp the project's demands.
+  4. **Build the story around the visualizations:** Regarding the visualizations, I received valuable feedback that shaped their improvement. People generally appreciated the infographics and interactive graphs I incorporated, particularly highlighting the GSMA visualization. However, feedback emphasized the need for more context in the visuals. Initially, I designed the visualizations with the idea that users should be able to understand the data solely by viewing them. While this holds true for many aspects of effective visualization, it became evident that incorporating content with reference to the visuals was essential for guiding the audience through the storyline. Consequently, I worked on adding explanatory content to accompany each visualization, enhancing their effectiveness in conveying the narrative.
      
-- **Final Changes**
-  This section deals with aspects of the project, I worked on refining/changing myself - not specific to user feedback. 
-  
 ## References
 
 ## Navigation Links
